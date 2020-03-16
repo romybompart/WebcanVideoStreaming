@@ -1,4 +1,4 @@
-# WebcanVideoStreaming
+# WebcamVideoStreaming
 Video Streaming using flask and OpenCV
 
 Make sure you have installed:
